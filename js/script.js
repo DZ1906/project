@@ -20,7 +20,7 @@ console.log(obj.age);
 const answer = prompt('Вам есть 18?', '');
 console.log(answer);
 
-console.log(3 + + '56');
+console.log(3 + '56');
 
 let incr=10,
     decr=10;
@@ -37,3 +37,4 @@ const isChecked = false,
 
 console.log(isChecked && !isClosed);
 console.log(obj.isMarried);    
+console.log(obj.name);
